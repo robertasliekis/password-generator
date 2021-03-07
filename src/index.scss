@@ -378,15 +378,24 @@ body {
         width: 100%;
         h2 {
           text-align: center;
+          width: 100%;
         }
         p {
           text-align: justify;
+          width: 100%;
         }
       }
     }
     .about-container {
       .image {
         order: 2;
+      }
+    }
+    width: 100%;
+    .how-it-works-container {
+      width: 100%;
+      .text-block {
+        min-width: 100%;
       }
     }
   }

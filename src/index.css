@@ -511,6 +511,7 @@ body {
   }
   .content {
     padding-bottom: 0;
+    width: 100%;
   }
   .content .learn-more-container {
     padding: 20px;
@@ -587,14 +588,22 @@ body {
   }
   .content .info-container .text-block h2 {
     text-align: center;
+    width: 100%;
   }
   .content .info-container .text-block p {
     text-align: justify;
+    width: 100%;
   }
   .content .about-container .image {
     -webkit-box-ordinal-group: 3;
         -ms-flex-order: 2;
             order: 2;
+  }
+  .content .how-it-works-container {
+    width: 100%;
+  }
+  .content .how-it-works-container .text-block {
+    min-width: 100%;
   }
 }
 /*# sourceMappingURL=index.css.map */
