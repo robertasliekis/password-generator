@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/password-generator/static/css/main.46d98ba1.chunk.css",
-    "main.js": "/password-generator/static/js/main.8c0ed028.chunk.js",
-    "main.js.map": "/password-generator/static/js/main.8c0ed028.chunk.js.map",
-    "runtime-main.js": "/password-generator/static/js/runtime-main.eaeb4198.js",
-    "runtime-main.js.map": "/password-generator/static/js/runtime-main.eaeb4198.js.map",
-    "static/js/2.4dc6f1a5.chunk.js": "/password-generator/static/js/2.4dc6f1a5.chunk.js",
-    "static/js/2.4dc6f1a5.chunk.js.map": "/password-generator/static/js/2.4dc6f1a5.chunk.js.map",
-    "static/js/3.8caf9c58.chunk.js": "/password-generator/static/js/3.8caf9c58.chunk.js",
-    "static/js/3.8caf9c58.chunk.js.map": "/password-generator/static/js/3.8caf9c58.chunk.js.map",
-    "index.html": "/password-generator/index.html",
-    "static/css/main.46d98ba1.chunk.css.map": "/password-generator/static/css/main.46d98ba1.chunk.css.map",
-    "static/js/2.4dc6f1a5.chunk.js.LICENSE.txt": "/password-generator/static/js/2.4dc6f1a5.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/password-generator/static/media/speed.f8005dbb.png"
+    "main.css": "//robertasliekis.github.io/password-generator/static/css/main.92ded40f.chunk.css",
+    "main.js": "//robertasliekis.github.io/password-generator/static/js/main.afabe746.chunk.js",
+    "main.js.map": "//robertasliekis.github.io/password-generator/static/js/main.afabe746.chunk.js.map",
+    "runtime-main.js": "//robertasliekis.github.io/password-generator/static/js/runtime-main.a900263b.js",
+    "runtime-main.js.map": "//robertasliekis.github.io/password-generator/static/js/runtime-main.a900263b.js.map",
+    "static/js/2.b414e495.chunk.js": "//robertasliekis.github.io/password-generator/static/js/2.b414e495.chunk.js",
+    "static/js/2.b414e495.chunk.js.map": "//robertasliekis.github.io/password-generator/static/js/2.b414e495.chunk.js.map",
+    "static/js/3.8caf9c58.chunk.js": "//robertasliekis.github.io/password-generator/static/js/3.8caf9c58.chunk.js",
+    "static/js/3.8caf9c58.chunk.js.map": "//robertasliekis.github.io/password-generator/static/js/3.8caf9c58.chunk.js.map",
+    "index.html": "//robertasliekis.github.io/password-generator/index.html",
+    "static/css/main.92ded40f.chunk.css.map": "//robertasliekis.github.io/password-generator/static/css/main.92ded40f.chunk.css.map",
+    "static/js/2.b414e495.chunk.js.LICENSE.txt": "//robertasliekis.github.io/password-generator/static/js/2.b414e495.chunk.js.LICENSE.txt",
+    "static/media/index.css": "//robertasliekis.github.io/password-generator/static/media/speed.f8005dbb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.eaeb4198.js",
-    "static/js/2.4dc6f1a5.chunk.js",
-    "static/css/main.46d98ba1.chunk.css",
-    "static/js/main.8c0ed028.chunk.js"
+    "static/js/runtime-main.a900263b.js",
+    "static/js/2.b414e495.chunk.js",
+    "static/css/main.92ded40f.chunk.css",
+    "static/js/main.afabe746.chunk.js"
   ]
 }
